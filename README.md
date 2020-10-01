@@ -7,18 +7,18 @@
 Обрана тема: онлайн-бібліотека.
 
 1. ER діаграма:
-![alt text](https://i.imgur.com/IDgsZX8.png)
+![alt text](https://i.imgur.com/IDgsZX8.png).
 Нотація: Crow's Foot
 2. Структура бази даних
-![alt text](https://i.imgur.com/pKUPBvY.png)
+![alt text](https://i.imgur.com/pKUPBvY.png).
 3. Скріншоти змісту бази даних
 Таблиця Author
-![alt text](https://i.imgur.com/ScEkFi1.png "Author")
+![alt text](https://i.imgur.com/ScEkFi1.png "Author").
 
 Таблиця Reader
-![Reader](https://i.imgur.com/FC9UPae.png "Reader")
+![Reader](https://i.imgur.com/FC9UPae.png "Reader").
 
 Таблиця Book
-![alt text](https://i.imgur.com/DxpkfJN.png "Book")
+![alt text](https://i.imgur.com/DxpkfJN.png "Book").
 
 База даних відповідає третій нормальній формі.
