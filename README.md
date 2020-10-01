@@ -13,9 +13,11 @@
 ![alt text](https://i.imgur.com/pKUPBvY.png)
 3. Скріншоти змісту бази даних
 Таблиця Author
-![alt text](https://imgur.com/ScEkFi1 "Author") 
+![alt text](https://i.imgur.com/ScEkFi1.png "Author")
+
 Таблиця Reader
 ![Reader](https://i.imgur.com/FC9UPae.png "Reader")
+
 Таблиця Book
 ![alt text](https://i.imgur.com/DxpkfJN.png "Book")
 
